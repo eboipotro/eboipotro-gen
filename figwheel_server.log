@@ -1,0 +1,12 @@
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/eboipotro_gen.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/eboipotro_gen.js" in 0.158 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /eboipotro_gen/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/eboipotro_gen.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/eboipotro_gen.js" in 0.177 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /eboipotro_gen/core.js
